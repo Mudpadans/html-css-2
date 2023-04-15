@@ -1,0 +1,40 @@
+header {
+    background-color: rgb(184, 179, 179);
+    width: 100%;
+    padding: 50px;
+}
+
+.blueSquare {
+    height: 75px;
+    width: 75px;
+    background-color: rgb(75, 75, 234);
+    box-sizing: border-box;
+}
+
+article {
+    padding: 50px;
+}
+
+.blueSection {
+    background-color: rgb(75, 75, 234);
+    width: 100%;
+    height: 250px;
+}
+x
+.aquamarineSection {
+    background-color: aquamarine;
+    width: 100%;
+    height: 250px;
+}
+
+.lightGreenSection {
+    background-color: lightgreen;
+    width: 100%;
+    height: 250px;
+}
+
+.yellowSection {
+    background-color: yellow;
+    width: 100%;
+    height: 250px;
+}
